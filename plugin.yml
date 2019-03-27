@@ -1,0 +1,9 @@
+name: GoToServer
+author: Kora
+version: 1.0.0
+main: Kora\GoToServer\GoToServer
+api: 3.0.0
+description: Phải có FormAPI nhé
+commands:
+  gotosv:
+    description: Xem danh sách các máy chủ
