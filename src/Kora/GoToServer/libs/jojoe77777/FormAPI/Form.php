@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace Xenophilicy\NaviCompass\libs\jojoe77777\FormAPI;
+namespace Kora\GoToSevrer\libs\jojoe77777\FormAPI;
 
 use pocketmine\form\Form as IForm;
 use pocketmine\Player;
