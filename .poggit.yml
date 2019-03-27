@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Kkora2k3/GoToServer-PMMP
+branches:
+- master
+projects:
+  GoToServer-PMMP:
+    path: ""
+...
