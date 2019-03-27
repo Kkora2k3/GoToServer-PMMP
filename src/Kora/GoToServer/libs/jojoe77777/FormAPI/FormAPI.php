@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace Xenophilicy\NaviCompass\libs\jojoe77777\FormAPI;
+namespace Kora\GoToServer\libs\jojoe77777\FormAPI;
 
 use pocketmine\plugin\PluginBase;
 
